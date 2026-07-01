@@ -37,11 +37,3 @@ Making **music projects** with an electronic-esque touch.
 Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
 
 <br clear="right"/>
-
-
-## Listening to
-
-<div align="center">
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pqaq8cin2agtov173hfknkmpc&redirect=true">
- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pqaq8cin2agtov173hfknkmpc&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=c061cb&bar_color_cover=true" alt="spotify-github-profile" width="400" />
-</a>
