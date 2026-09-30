@@ -26,11 +26,6 @@
 
 ## About Me
 
-<img align="right" width="450" src="https://github.com/user-attachments/assets/30050789-a718-488c-aa0a-f2b8dab62a41">
-
-Currently building:
-* A presentation viewer for all formats in VSCode with custom parsers (**[Repository](https://github.com/Klus3kk/vscode-slides-viewer)**)
-
 Interested in **music**, **abstract art**, **poetry**, and **photography**.  
 Writing on *Medium*, creating poems around art, technology, and perception.  
 Making **music projects** with an electronic-esque touch.  
